@@ -1,7 +1,7 @@
 # Мовчанская Ника
 
 Passionate about web developing
-![](https://drive.google.com/file/d/16KHrp4P_XZdqhsRQujo91Z8WNP8Tmfcw/view?usp=sharing)
+![](https://akbars-ufa.ru/images/photos/900/908/samanta-akbars-25.jpg)
 
 ## Skills
 - HTML
